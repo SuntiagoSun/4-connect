@@ -1,0 +1,8 @@
+# Временные файлы Godot
+*.import
+*.bin
+*.tmp
+
+# Локальные настройки
+.project
+*.godot
